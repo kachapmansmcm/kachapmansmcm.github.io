@@ -1,0 +1,51 @@
+<div id="ball" style="
+  z-index:5;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  background:green"></div>
+
+<script>
+
+var velocityX = 5;
+var velocityY = 5;
+var positionX = 0;
+var positionY = 0;
+var ball = document.getElementById('ball');
+let down = true;
+let forward = true;
+
+function moveIt(){
+
+  if(forward) {
+    positionX = positionX + velocityX;
+  }else{
+    positionX = positionX - velocityX;
+  }
+  if(down){
+    positionY = positionY + velocityY;
+  }else{
+    positionY = positionY - velocityY;
+  }
+  if(positionX == 1000){
+    forward = false;
+  }else if(positionX == 100){
+    forward = true;
+  }
+  if(positionY == 300){
+    down = false;
+  }else if(positionY == 100){
+    down = true;
+  }
+	ball.style.left = positionX +'px';
+  ball.style.top = positionY + 'px';
+  console.log('x=' + positionX)
+  console.log('y=' + positionY)
+}
+setInterval(moveIt, 10);
+// YOUR CODE 
+// ----------------
+</script>
