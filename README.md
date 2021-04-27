@@ -1,15 +1,11 @@
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][https://github.com/kachapmansmcm/kachapmansmcm.github.io/blob/main/LICENSE]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/kachapmansmcm/kachapmansmcm.github.io">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">GitHub Portfoli Website</h3>
+  <h3 align="center">GitHub Portfolio Website</h3>
 
   <p align="center">
     This is a website created with Bootstrap designed to introduce yourself as a developer and show case your projects.
@@ -50,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://kachapmansmcm.github.io/)
+[![assets/img/site1.png][assets/img/site2.png]](https://kachapmansmcm.github.io/)
 
 
 ### Built With
