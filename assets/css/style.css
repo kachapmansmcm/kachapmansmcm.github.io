@@ -1,3 +1,4 @@
+/*Styling for consitent look across pages with navbar*/
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -19,11 +20,6 @@ body::before {
   z-index: -1;
 }
 
-@media (min-width: 1024px) {
-  body::before {
-    background-attachment: fixed;
-  }
-}
 
 a {
   color: #18d26e;
@@ -109,23 +105,6 @@ h1, h2, h3, h4, h5, h6 {
   background: #18d26e;
 }
 
-@media (max-width: 992px) {
-  #header h1 {
-    font-size: 36px;
-  }
-  #header h2 {
-    font-size: 20px;
-    line-height: 30px;
-  }
-  #header .social-links {
-    margin-top: 15px;
-  }
-  #header .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-}
 
 #header.header-top {
   height: 80px;
