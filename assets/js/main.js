@@ -1,9 +1,7 @@
 (function() {
     "use strict";
   
-    /**
-     * Easy selector helper function
-     */
+
     const select = (el, all = false) => {
       el = el.trim()
       if (all) {
@@ -31,7 +29,7 @@
           behavior: 'smooth'
         })
       }
-
+      //shows different sections based on navbar navigation
       on('click', '#navbar .nav-link', function(e) {
         let section = select(this.hash)
         if (section) {
@@ -77,8 +75,7 @@
       }, true)
 
 
-    /* Activate/show sections on load with hash links
-   */
+  //sets navbar for intial page load
   window.addEventListener('load', () => {
     if (window.location.hash) {
       let initial_nav = select(window.location.hash)
