@@ -37,6 +37,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -72,7 +73,12 @@ This is a simple webpage that can be hosted from any basic HTTP server.
 
 This is a Github pages website to showcase your Projects.
 
+<!-- ROADMAP -->
+## Roadmap
 
+Changes I would like to make to this project in the future are:
+* I will continue to add projects as I progress through class.
+* I need to get a better photo
 
 
 <!-- LICENSE -->
