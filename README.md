@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][https://github.com/kachapmansmcm/kachapmansmcm.github.io/blob/main/LICENSE]
+[![MIT License][license-shield]][]
 
 
 
@@ -99,5 +99,5 @@ Project Link: [https://github.com/kachapmansmcm/kachapmansmcm.github.io](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/badge/license-MIT-green
+[license-url]: https://github.com/kachapmansmcm/kachapmansmcm.github.io/blob/main/LICENSE
