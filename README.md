@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![assets/img/site1.png][assets/img/site2.png]](https://kachapmansmcm.github.io/)
+[![Product Name Screen Shot][product-screenshot]](https://kachapmansmcm.github.io/)
 
 
 ### Built With
@@ -101,3 +101,5 @@ Project Link: [https://github.com/kachapmansmcm/kachapmansmcm.github.io](https:/
 
 [license-shield]: https://img.shields.io/badge/license-MIT-green
 [license-url]: https://github.com/kachapmansmcm/kachapmansmcm.github.io/blob/main/LICENSE
+[product-screenshot]: assets/img/site2.PNG
+[Product Name Screen Shot]: assets/img/site1.PNG
