@@ -53,6 +53,7 @@
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
+* [bootstrapmade](https://bootstrapmade.com/personal-free-resume-bootstrap-template/) Licensed version
 
 
 
